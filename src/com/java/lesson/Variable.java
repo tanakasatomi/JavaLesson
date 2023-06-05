@@ -1,10 +1,8 @@
 package com.java.lesson;
 
-public class HelloWorld {
-
+public class Variable {
 	public static void main(String[] args) {
-		System.out.println("HelloWorld");
-
+		int age=0;
+		System.out.println(age);
 	}
-
 }
